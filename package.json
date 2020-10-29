@@ -1,0 +1,15 @@
+{
+  "name": "algo-practice",
+  "version": "1.0.0",
+  "description": "Inspired by ZResnick's Algorama repository, this repo is a space where I practice algorithms and problem sets for technical challenges. It may also include files where I practice my React, HTML, and other frontend skills.",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV='test' mocha \"./LinkedLists/*.spec.js\" \"./BinaryTrees/*.spec.js\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.0"
+  }
+}
