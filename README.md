@@ -5,5 +5,6 @@ Inspired by ZResnick's Algorama repository, this repo is a space where I practic
 ## Material so far
  - implement a binary tree
  - implement a linked list
+ - binary search (array manipulation)
 
 I have included unit tests for the material I've covered so far. If you are interested running these unit tests on your local cumputer, run `npm install` (after forking and cloning) and then `npm test`.

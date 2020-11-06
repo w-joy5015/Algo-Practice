@@ -4,7 +4,7 @@
   "description": "Inspired by ZResnick's Algorama repository, this repo is a space where I practice algorithms and problem sets for technical challenges. It may also include files where I practice my React, HTML, and other frontend skills.",
   "main": "index.js",
   "scripts": {
-    "test": "NODE_ENV='test' mocha \"./LinkedLists/*.spec.js\" \"./BinaryTrees/*.spec.js\""
+    "test": "NODE_ENV='test' mocha \"./LinkedLists/*.spec.js\" \"./BinaryTrees/*.spec.js\" \"./Arrays/*.spec.js\""
   },
   "author": "",
   "license": "ISC",
