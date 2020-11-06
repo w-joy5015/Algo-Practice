@@ -10,6 +10,9 @@ binarySearch([1], 1) return 0
 assumptions:
 - there are no duplicates in the given array
 - the given array will always have a length of at least 1
+
+time complexity for this solution: O(log n)
+space complexsity for this solution: O(1) constant space
 */
 
 const binarySearch = (arr, target) => {
